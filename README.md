@@ -30,7 +30,6 @@ sentence-transformers – MiniLM embeddings
 
 matplotlib, seaborn – visualizations
 
-wordcloud – title cloud
 
 📂 Dataset
 
@@ -50,7 +49,7 @@ Generated embeddings using all-MiniLM-L6-v2.
 
 Applied KMeans for clustering shows into genres.
 
-Used TF-IDF keywords to label clusters manually.
+Used TF-IDF and Sentence Transformer keywords to label clusters manually.
 
 Recommendations
 
@@ -71,8 +70,6 @@ Top binge-watched shows.
 Visualization
 
 Genre distribution.
-
-Word cloud of watched titles.
 
 PCA visualization of clustered embeddings.
 
