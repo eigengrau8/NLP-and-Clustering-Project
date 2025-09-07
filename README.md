@@ -49,7 +49,7 @@ Generated embeddings using all-MiniLM-L6-v2.
 
 Applied KMeans for clustering shows into genres.
 
-Used TF-IDF and Sentence Transformer keywords to label clusters manually.
+Used TF-IDF keywords to label clusters manually.
 
 Recommendations
 
